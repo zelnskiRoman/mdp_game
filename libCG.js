@@ -5,111 +5,111 @@ exports.assets = void 0;
 var assets = [{
         id: 'arrow',
         name: 'arrow',
-        url: '../game/assets/all/arrow.png'
+        url: './game/assets/all/arrow.png'
     }, {
         id: 'sign',
         name: 'sign',
-        url: '../game/assets/menu/sign.png'
+        url: './game/assets/menu/sign.png'
     }, {
         id: 'continuePack',
         name: 'continuePack',
-        url: '../game/assets/menu/continue-pack.png'
+        url: './game/assets/menu/continue-pack.png'
     }, {
         id: 'rulesPack',
         name: 'rulesPack',
-        url: '../game/assets/menu/rules-pack.png'
+        url: './game/assets/menu/rules-pack.png'
     }, {
         id: 'startPack',
         name: 'startPack',
-        url: '../game/assets/menu/start-pack.png'
+        url: './game/assets/menu/start-pack.png'
     }, {
         id: 'exitBtn',
         name: 'startPack',
-        url: '../game/assets/menu/exit.png'
+        url: './game/assets/menu/exit.png'
     }, {
         id: 'settingsBtn',
         name: 'startPack',
-        url: '../game/assets/menu/settings.png'
+        url: './game/assets/menu/settings.png'
     }, {
         id: 'back',
         name: 'startPack',
-        url: '../game/assets/menu/background.png'
+        url: './game/assets/menu/background.png'
     }, {
         id: 'menu',
         name: 'startPack',
-        url: '../game/assets/character/menu.png'
+        url: './game/assets/character/menu.png'
     }, {
         id: 'borderTop',
         name: 'startPack',
-        url: '../game/assets/character/border-top.png'
+        url: './game/assets/character/border-top.png'
     }, {
         id: 'borderBottom',
         name: 'startPack',
-        url: '../game/assets/character/border-bottom.png'
+        url: './game/assets/character/border-bottom.png'
     }, {
         id: 'table',
         name: 'startPack',
-        url: '../game/assets/character/table.png'
+        url: './game/assets/character/table.png'
     }, {
         id: 'done',
         name: 'startPack',
-        url: '../game/assets/character/done.png'
+        url: './game/assets/character/done.png'
     }, {
         id: 'rightArrow',
         name: 'startPack',
-        url: '../game/assets/character/arr-right.png'
+        url: './game/assets/character/arr-right.png'
     }, {
         id: 'leftArrow',
         name: 'startPack',
-        url: '../game/assets/character/arr-left.png'
+        url: './game/assets/character/arr-left.png'
     }, {
         id: 'char1',
         name: 'startPack',
-        url: '../game/assets/character/char1.png'
+        url: './game/assets/character/char1.png'
     }, {
         id: 'char2',
         name: 'startPack',
-        url: '../game/assets/character/char2.png'
+        url: './game/assets/character/char2.png'
     }, {
         id: 'rules',
         name: 'startPack',
-        url: '../game/assets/level-1/rules.png'
+        url: './game/assets/level-1/rules.png'
     }, {
         id: 'lvl1',
         name: 'startPack',
-        url: '../game/assets/level-1/lvl1.png'
+        url: './game/assets/level-1/lvl1.png'
     }, {
         id: 'startRules',
         name: 'startPack',
-        url: '../game/assets/level-1/start.png'
+        url: './game/assets/level-1/start.png'
     }, {
         id: 'levelMenu',
         name: 'startPack',
-        url: '../game/assets/level-1/menu-btn.png'
+        url: './game/assets/level-1/menu-btn.png'
     }, {
         id: 'levelHint',
         name: 'startPack',
-        url: '../game/assets/level-1/hint.png'
+        url: './game/assets/level-1/hint.png'
     }, {
         id: 'levelShelf',
         name: 'startPack',
-        url: '../game/assets/level-1/shelf.png'
+        url: './game/assets/level-1/shelf.png'
     }, {
         id: 'levelTargets',
         name: 'startPack',
-        url: '../game/assets/level-1/targets.png'
+        url: './game/assets/level-1/targets.png'
     }, {
         id: 'levelBack',
         name: 'startPack',
-        url: '../game/assets/level-1/back.png'
+        url: './game/assets/level-1/back.png'
     }, {
         id: 'levelCart',
         name: 'startPack',
-        url: '../game/assets/level-1/cart.png'
+        url: './game/assets/level-1/cart.png'
     }, {
         id: 'levelTest',
         name: 'startPack',
-        url: '../game/assets/level-1/test.png'
+        url: './game/assets/level-1/test.png'
     }];
 exports.assets = assets;
 },{}],2:[function(require,module,exports){
